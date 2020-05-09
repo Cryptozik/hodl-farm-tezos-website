@@ -20,7 +20,7 @@ moving:
 
   social_links:
 # Build settings
-remote_theme: hodl-dot-farm/moving
+remote_theme: cryptozik/moving@midl
 
 plugins:
   - jekyll-feed
